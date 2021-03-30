@@ -1,8 +1,8 @@
 id,name,sex
-HP,Harry,1
-RW,Ron,1
-HG,Hermine,2
-AD,Dumbledore,1
-H,Hagrid,1
-V,Voldemort,1
-PS,Snape,1
+Harry,Harry,1
+Ron,Ron,1
+Hermine,Hermine,2
+Dumbledore,Dumbledore,1
+Hagrid,Hagrid,1
+Voldemort,Voldemort,1
+Snape,Snape,1
